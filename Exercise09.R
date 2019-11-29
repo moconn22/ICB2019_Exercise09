@@ -16,7 +16,7 @@ d+geom_bar( stat="summary", fun.y="mean")
 #scatter plot of observations
 d+geom_jitter()
 
-#The bar plots and the scatter plots do tell different stories because if you were to just look at the bar plot, the means would indicate that all of the observations were around a very similar number, 15. However, when looking at the scatterplot, it becomes clear that some of the regions have a wider distribution and are a lot more spread out and some have a smaller distribution and are more centered around a certain number, showing that the data sets are actually a lot more different than the bar-plot of the means suggests.  Therefore, it is necessary to have both plots for a more complete picture of the data set. 
+#The bar plots and the scatter plots do tell different stories because if you were to just look at the bar plot, the means would indicate that all of the observations were around a very similar number, 15. However, when looking at the scatterplot, it is clear that some of the regions have a wider distribution and are a lot more spread out and some have a smaller distribution and are more centered around a certain number, showing that the data sets are actually a lot more different than the bar-plot of the means suggests.  Therefore, it is necessary to have both plots for a more complete picture of the data set. 
   
   
   
